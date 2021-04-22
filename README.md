@@ -10,3 +10,4 @@ A repository to keep track of problem solving practice, containing solutions fro
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
 1 | [4A -Watermelon](https://codeforces.com/problemset/problem/4/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/1/4A_watermelon.c) | `brute force` `math` `number theory` `*800` | Apr/22/2021  | 
+2 | [1A -Theatre Square](https://codeforces.com/contest/1/problem/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/1/1A_Theatre Square) |  `math`  `*1000` | Apr/22/2021  | 
