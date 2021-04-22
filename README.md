@@ -3,8 +3,7 @@
 ## Introduction
 
 A repository to keep track of problem solving practice, containing solutions from platforms:
-* Codeforces &nbsp; [![Codeforces](https://codeforces.com/profile/123Harshit1)
-
+* Codeforces id ==><a href="https://codeforces.com/profile/123Harshit1"> 123Harshit1</a>
 
 ## Contents
 
