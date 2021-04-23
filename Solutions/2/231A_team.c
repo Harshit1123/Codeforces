@@ -1,16 +1,13 @@
-#include <bits/stdc++.h>
-using namespace std;
-typedef long long ll;
-int main()
-{
+#include <stdio.h>
+int main() {
  int n,s=0,p=0;;
- cin>>n;
+ scanf("%d",&n);
  int a[3];
  while(n--){
  for (int i = 0; i < 3; i++) {
-    cin>>a[i];
+    scanf("%d",&a[i]);
  }
- 
+
  for (int j = 0; j < 3; j++) {
     if(a[j]==1)
         s++;
@@ -20,6 +17,7 @@ int main()
     
  s=0;    
  };
- cout<<p;
-return 0; 
+ printf("%d",p);
+
+	return 0;
 }
