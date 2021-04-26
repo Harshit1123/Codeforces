@@ -17,6 +17,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 6 | [158A -Next Round](https://codeforces.com/problemset/problem/158/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/3/158A_NextRound.c) |`special problem`   `implementation`  `*800` | Apr/24/2021  | 
 7 | [158A -String Task](https://codeforces.com/problemset/problem/118/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/4/118A_SubstringTask.c) | `strings`   `implementation`  `*1000` | Apr/25/2021  | 
 8 | [50A -Domino Piling](https://codeforces.com/problemset/problem/50/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/4/50A_DominoPiling) | `greedy`   `math`  `*800` | Apr/25/2021  | 
+9 | [112A -Petya and Strings](https://codeforces.com/problemset/problem/112/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/5/112A_Petya_and_Strings.cpp) | `implementation` `strings`  `*800` | Apr/26/2021  |
+10 | [282A -Bit++](https://codeforces.com/problemset/problem/282/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/5/282A_Btt%2B%2B.cpp) | `implementation` `*800` | Apr/26/2021  | 
+
 
 
 
