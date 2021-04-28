@@ -19,6 +19,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 8 | [50A -Domino Piling](https://codeforces.com/problemset/problem/50/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/4/50A_DominoPiling) | `greedy`   `math`  `*800` | Apr/25/2021  | 
 9 | [112A -Petya and Strings](https://codeforces.com/problemset/problem/112/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/5/112A_Petya_and_Strings.cpp) | `implementation` `strings`  `*800` | Apr/26/2021  |
 10 | [282A -Bit++](https://codeforces.com/problemset/problem/282/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/5/282A_Btt%2B%2B.cpp) | `implementation` `*800` | Apr/26/2021  | 
+11 | [281A -Word Capitalization](https://codeforces.com/problemset/problem/281/A | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/6/281A_WordCapitalization.cpp.c) | `implementation`  `string`    `*800` | Apr/28/2021  | 
+12 | [263A -Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/6/263A_BeautifulMatrix.c) | `implementation` `*800` | Apr/28/2021  | 
 
 
 
