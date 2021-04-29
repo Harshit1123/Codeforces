@@ -21,6 +21,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 10 | [282A -Bit++](https://codeforces.com/problemset/problem/282/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/5/282A_Btt%2B%2B.cpp) | `implementation` `*800` | Apr/26/2021  | 
 11 | [281A -Word Capitalization](https://codeforces.com/problemset/problem/281/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/6/281A_WordCapitalization.cpp.c) | `implementation`  `string`    `*800` | Apr/28/2021  | 
 12 | [263A -Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/6/263A_BeautifulMatrix.c) | `implementation` `*800` | Apr/28/2021  | 
+13 | [1519A -Red and Blue Beans](https://codeforces.com/contest/1519/problem/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/7/1519A_Red%20and%20Blue%20Beans.cpp) | `Math`  | Apr/29/2021  | 
+14 | [1519B -The cake is a lie](https://codeforces.com/contest/1519/problem/B) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/7/1519B_Cake%20is%20a%20Lie.cpp) | `DP` `*Math` | Apr/29/2021  | 
+
 
 
 
