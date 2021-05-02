@@ -25,8 +25,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 14 | [1519B -The cake is a lie](https://codeforces.com/contest/1519/problem/B) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/7/1519B_Cake%20is%20a%20Lie.cpp) | `DP` `*Math` | Apr/29/2021  | 
 15 | [96A -Football](https://codeforces.com/problemset/problem/96/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/8/96A_Football.cpp) | `string` `*implementation`   `900`  | Apr/30/2021  | 
 16 | [266A -Stones on the table](https://codeforces.com/problemset/problem/266/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/8/266A_Stones%20on%20the%20table.cpp) | `implementation` `*Math` `800` | May/01/2021  | 
-
-
+17 | [546A -Soldiers and bananas](https://codeforces.com/problemset/problem/546/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/9/546A_Soldiers%20and%20Banana.c) | `implementation` `*brute force`  `maths`  `800` | May/02/2021  | 
+18 | [791A -Beer and Big Brother](https://codeforces.com/problemset/problem/791/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/9/791A_Beer%20and%20big%20brother.c) | `implementation`  `800` | May/02/2021  | 
 
 
 
