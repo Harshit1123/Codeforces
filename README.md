@@ -27,6 +27,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 16 | [266A -Stones on the table](https://codeforces.com/problemset/problem/266/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/8/266A_Stones%20on%20the%20table.cpp) | `implementation` `*Math` `800` | May/01/2021  | 
 17 | [546A -Soldiers and bananas](https://codeforces.com/problemset/problem/546/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/9/546A_Soldiers%20and%20Banana.c) | `implementation` `*brute force`  `maths`  `800` | May/02/2021  | 
 18 | [791A -Beer and Big Brother](https://codeforces.com/problemset/problem/791/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/9/791A_Beer%20and%20big%20brother.c) | `implementation`  `800` | May/02/2021  | 
+19 | [69A -Young Physicist](https://codeforces.com/problemset/problem/69/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/10/69A_Young%20Physicist.c) | `implementation` `Maths`  `1000` | May/03/2021  | 
+20| [977A -Wrong Substraction](https://codeforces.com/problemset/problem/977/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/10/977A_Wrong%20Subtraction.c) | `implementation`  `800` | May/03/2021  | 
 
 
 
