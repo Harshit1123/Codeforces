@@ -31,6 +31,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 20| [977A -Wrong Substraction](https://codeforces.com/problemset/problem/977/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/10/977A_Wrong%20Subtraction.c) | `implementation`  `800` | May/03/2021  | 
 21| [617A -Elephant](https://codeforces.com/problemset/problem/617/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/11/617A_Elephant.c) | `maths`  `800` | May/04/2021  | 
 22| [59A -Word](https://codeforces.com/problemset/problem/59/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/11/59A_Word.cpp) | `implementation` `string` `800` | May/04/2021  | 
+23| [1520A -Do not be Distracted](https://codeforces.com/problemset/problem/1520/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/12/1520A_Do%20not%20be%20distracted.cpp) | `implementation` `brute force` `800` | May/05/2021  | 
+24| [1520B -Ordinary Numbers](https://codeforces.com/problemset/problem/1520/B) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/12/1520B_Ordinary%20Numbers.cpp) | `brute force` `implementation` `number theory`  | May/06/2021  | 
+
+
 
 
 
