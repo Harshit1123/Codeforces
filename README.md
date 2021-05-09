@@ -33,6 +33,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 22| [59A -Word](https://codeforces.com/problemset/problem/59/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/11/59A_Word.cpp) | `implementation` `string` `800` | May/04/2021  | 
 23| [1520A -Do not be Distracted](https://codeforces.com/problemset/problem/1520/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/12/1520A_Do%20not%20be%20distracted.cpp) | `implementation` `brute force` `800` | May/05/2021  | 
 24| [1520B -Ordinary Numbers](https://codeforces.com/problemset/problem/1520/B) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/12/1520B_Ordinary%20Numbers.cpp) | `brute force` `implementation` `number theory`  | May/06/2021  | 
+25| [41A -Translation](https://codeforces.com/problemset/problem/41/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/13/41A_Translation.cpp) | `string` `implementation` `*800`  | May/08/2021  | 
+26| [271A -Beautiful Year](https://codeforces.com/problemset/problem/271/A) | [GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/13/271A_Beautiful%20Year.cpp) | `brute force` `implementation` `*800`  | May/09/2021  | 
 
 
 
