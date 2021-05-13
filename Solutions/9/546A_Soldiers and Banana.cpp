@@ -1,16 +1,17 @@
-#include<stdio.h>
+#include<bits/stdc++.h>
+using namespace std;
 int main(){
 int k,n,w; 
 int p=0,a=0;
-scanf("%d%d%d",&k,&n,&w);
+cin>>k>>n>>w;
 for (int i = 1; i <= w; i++) {
     p=i*k;
     a+=p;
 }
 if(a>n)
-printf("%d",a-n);
+cout<<a-n;
 else
-printf("0");
+cout<<0;
  
 return 0;
 }
