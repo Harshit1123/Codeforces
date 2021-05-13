@@ -1,13 +1,14 @@
-#include<stdio.h>
+#include<bits/stdc++.h>
+using namespace std
 
 int main(){
 int a,b,d=0;
-scanf("%d%d",&a,&b);
+cin>>a>>b;
 while(a<=b){
     a=a*3;
     b=b*2;
     d++;
 }
-printf("%d",d);
+cout<<d;
 return 0;
 }
