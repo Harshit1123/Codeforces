@@ -1,11 +1,12 @@
-#include <stdio.h>
+#include <bits/stdc++.h>
+using namespace std;
 int main() {
  int n,s=0,p=0;;
- scanf("%d",&n);
+cin>>n;
  int a[3];
  while(n--){
  for (int i = 0; i < 3; i++) {
-    scanf("%d",&a[i]);
+   cin>>a[i];
  }
 
  for (int j = 0; j < 3; j++) {
@@ -17,7 +18,7 @@ int main() {
     
  s=0;    
  };
- printf("%d",p);
+ cout<<p;
 
-	return 0;
+return 0;
 }
