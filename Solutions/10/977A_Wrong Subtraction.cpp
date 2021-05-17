@@ -1,7 +1,8 @@
-#include<stdio.h>
+#include<bits/stdc++.h>
+using namespace std;
 int main(){
 int n,s;
-scanf("%d%d",&n,&s);
+cin>>n>>s;
  
 while(s>0){
   if(n%10==0)
@@ -11,6 +12,6 @@ while(s>0){
    
    s--;
 };
-printf("%d",n);
+cout<<n;
 return 0;
 }
