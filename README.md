@@ -40,6 +40,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 29| [486A -Calculating Function](https://codeforces.com/problemset/problem/486/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/15/486A_Calculating%20Function.cpp) | `math` `implementation` `*800`  | May/13/2021  | 
 30| [510A -FOX and Snake](https://codeforces.com/problemset/problem/510/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/16/510A_Fox%20and%20Snake.cpp) | `implementation` `*800`  | May/14/2021  | 
 31| [266B-Queue at the School](https://codeforces.com/problemset/problem/266/B) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/17/266B_Queue%20at%20School.cpp) | `constructive algorithm` `graph matchings`  `implementation`  `shortest path` `*800`  | May/15/2021  | 
+32| [466A-Cheap Travels](https://codeforces.com/problemset/problem/466/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/18/466A_Cheap%20Travels.cpp) |  `implementation` `*1200`  | May/17/2021  | 
 
 
 
