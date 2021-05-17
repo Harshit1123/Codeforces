@@ -1,11 +1,12 @@
-#include<stdio.h>
+#include<bits/stdc++.h>
+using namespace std;
 int main(){
 int n,d=0,s=0;
-scanf("%d",&n);
+cin>>n;
 int a[n][3];
 for (int i = 0; i < n; i++) {
     for (int j = 0; j < 3; j++) {
-        scanf("%d",&a[i][j]);
+        cin>>a[i][j];
     }
 }
 for (int k = 0; k < 3; k++) {
@@ -19,9 +20,9 @@ for (int k = 0; k < 3; k++) {
     break;
 }
  if(s==3)
- printf("YES");
+cout<<"YES";
  else
- printf("NO");
+ cout<<"NO";
  
 return 0;
 }
