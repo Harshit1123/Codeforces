@@ -42,6 +42,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 31| [266B-Queue at the School](https://codeforces.com/problemset/problem/266/B) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/17/266B_Queue%20at%20School.cpp) | `constructive algorithm` `graph matchings`  `implementation`  `shortest path` `*800`  | May/15/2021  | 
 32| [466A-Cheap Travels](https://codeforces.com/problemset/problem/466/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/18/466A_Cheap%20Travels.cpp) |  `implementation` `*1200`  | May/17/2021  | 
 33| [486A-Calculating Function](https://codeforces.com/problemset/problem/486/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/19/486A_Calculating%20Function.cpp) |  `implementation` `math` `*800`  | May/18/2021  | 
+33| [1030A - In search of an easy problem](https://codeforces.com/problemset/problem/1030/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/20/1030A_In%20search%20of%20an%20easy%20problem.cpp) |  `implementation`  `*800`  | May/19/2021  | 
+
 
 
 
