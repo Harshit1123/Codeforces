@@ -43,6 +43,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 32| [466A-Cheap Travels](https://codeforces.com/problemset/problem/466/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/18/466A_Cheap%20Travels.cpp) |  `implementation` `*1200`  | May/17/2021  | 
 33| [486A-Calculating Function](https://codeforces.com/problemset/problem/486/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/19/486A_Calculating%20Function.cpp) |  `implementation` `math` `*800`  | May/18/2021  | 
 33| [1030A - In search of an easy problem](https://codeforces.com/problemset/problem/1030/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/20/1030A_In%20search%20of%20an%20easy%20problem.cpp) |  `implementation`  `*800`  | May/19/2021  | 
+34| [479A - Expression](https://codeforces.com/problemset/problem/479/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/21/479A_Expression.cpp) |  `Maths` `brute force`  `*1000`  | May/20/2021  | 
 
 
 
