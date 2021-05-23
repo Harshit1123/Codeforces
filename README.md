@@ -44,7 +44,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 33| [486A-Calculating Function](https://codeforces.com/problemset/problem/486/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/19/486A_Calculating%20Function.cpp) |  `implementation` `math` `*800`  | May/18/2021  | 
 33| [1030A - In search of an easy problem](https://codeforces.com/problemset/problem/1030/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/20/1030A_In%20search%20of%20an%20easy%20problem.cpp) |  `implementation`  `*800`  | May/19/2021  | 
 34| [479A - Expression](https://codeforces.com/problemset/problem/479/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/21/479A_Expression.cpp) |  `Maths` `brute force`  `*1000`  | May/20/2021  | 
-34| [703A - Expression](https://codeforces.com/problemset/problem/703/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/22/703A%20Mishka%20and%20game.cpp) |  `implementation`  `*8000`  | May/21/2021  | 
+34| [703A - Mishka and Game](https://codeforces.com/problemset/problem/703/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/22/703A%20Mishka%20and%20game.cpp) |  `implementation`  `*800`  | May/21/2021  | 
+35| [1353B - Two array Swaps](https://codeforces.com/problemset/problem/1353/B) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/23/1353B_Two%20array%20swaps.cpp) |  `greedy` `sorting ` `*800`  | May/22/2021  | 
 
 
 
