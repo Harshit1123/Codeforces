@@ -48,7 +48,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 35| [1353B - Two array Swaps](https://codeforces.com/problemset/problem/1353/B) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/23/1353B_Two%20array%20swaps.cpp) |  `greedy` `sorting ` `*800`  | May/22/2021  | 
 36| [141A - Amusing Joke](https://codeforces.com/problemset/problem/141/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/24/141A_Amusing%20Joke.cpp) |  `implementation` `string` `sorting ` `*800`  | May/23/2021  | 
 37| [1525A - Potion Making](https://codeforces.com/contest/1525/problem/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/25/1525A_Potion%20Making.cpp) |  `implementation` `Number Theory` `math ` `*800`  | May/25/2021  | 
-38| [734A - Anton and Drink](https://codeforces.com/problemset/problem/734/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/26/734A_Anton%20and%20Danik.cpp) |  `implementation` `string`  `*800`  | May/25/2021  | 
+38| [734A - Anton and Danik](https://codeforces.com/problemset/problem/734/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/26/734A_Anton%20and%20Danik.cpp) |  `implementation` `string`  `*800`  | May/26/2021  | 
+39| [785A - Anton and Polhedron](https://codeforces.com/problemset/problem/785/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/27/785A_Anton%20and%20PolyHedron.cpp) |  `implementation` `string`  `*800`  | May/27/2021  | 
+40| [122A - Lucky Division](https://codeforces.com/problemset/problem/122/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/28/122A_Lucky%20Division.cpp) |  `brute force` `number theory`  `*1000`  | May/28/2021  | 
 
 
 
