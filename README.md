@@ -51,6 +51,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 38| [734A - Anton and Danik](https://codeforces.com/problemset/problem/734/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/26/734A_Anton%20and%20Danik.cpp) |  `implementation` `string`  `*800`  | May/26/2021  | 
 39| [785A - Anton and Polhedron](https://codeforces.com/problemset/problem/785/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/27/785A_Anton%20and%20PolyHedron.cpp) |  `implementation` `string`  `*800`  | May/27/2021  | 
 40| [122A - Lucky Division](https://codeforces.com/problemset/problem/122/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/28/122A_Lucky%20Division.cpp) |  `brute force` `number theory`  `*1000`  | May/28/2021  | 
+41| [379A - New Year Candles](https://codeforces.com/contest/379/problem/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/29/379A_NewYearCandles.cpp) |  `implementation`  `*1000`  | May/30/2021  | 
 
 
 
