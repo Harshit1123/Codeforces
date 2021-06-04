@@ -52,6 +52,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 39| [785A - Anton and Polhedron](https://codeforces.com/problemset/problem/785/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/27/785A_Anton%20and%20PolyHedron.cpp) |  `implementation` `string`  `*800`  | May/27/2021  | 
 40| [122A - Lucky Division](https://codeforces.com/problemset/problem/122/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/28/122A_Lucky%20Division.cpp) |  `brute force` `number theory`  `*1000`  | May/28/2021  | 
 41| [379A - New Year Candles](https://codeforces.com/contest/379/problem/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/29/379A_NewYearCandles.cpp) |  `implementation`  `*1000`  | May/30/2021  | 
+42| [110A - Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/30/110A_Nearly%20Lucky%20Number.cpp) |  `implementation`  `*800`  | June/01/2021  | 
+43| [58A - Chat Room](https://codeforces.com/problemset/problem/58/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/31/58A_ChatRoom.cpp) |  `greedy` `strings`   `*1000`  | June/02/2021  | 
 
 
 
