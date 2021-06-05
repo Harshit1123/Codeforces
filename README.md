@@ -54,6 +54,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 41| [379A - New Year Candles](https://codeforces.com/contest/379/problem/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/29/379A_NewYearCandles.cpp) |  `implementation`  `*1000`  | May/30/2021  | 
 42| [110A - Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/30/110A_Nearly%20Lucky%20Number.cpp) |  `implementation`  `*800`  | June/01/2021  | 
 43| [58A - Chat Room](https://codeforces.com/problemset/problem/58/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/31/58A_ChatRoom.cpp) |  `greedy` `strings`   `*1000`  | June/02/2021  | 
+44| [1409A - Yet another two integers Problem](https://codeforces.com/problemset/problem/1409/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/32/1409A_Yet%20another%20two%20integers%20problem.cpp) |  `greedy` `math`   `*800`  | June/03/2021  | 
 
 
 
