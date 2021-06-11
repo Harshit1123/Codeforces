@@ -55,6 +55,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 42| [110A - Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/30/110A_Nearly%20Lucky%20Number.cpp) |  `implementation`  `*800`  | June/01/2021  | 
 43| [58A - Chat Room](https://codeforces.com/problemset/problem/58/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/31/58A_ChatRoom.cpp) |  `greedy` `strings`   `*1000`  | June/02/2021  | 
 44| [1409A - Yet another two integers Problem](https://codeforces.com/problemset/problem/1409/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/32/1409A_Yet%20another%20two%20integers%20problem.cpp) |  `greedy` `math`   `*800`  | June/03/2021  | 
+45| [443A - Anton and Letters](https://codeforces.com/problemset/problem/443/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/33/443A_Anton%20and%20Letters.cpp) |  `constructive algorithms` `implementation`   `*800`  | June/05/2021  | 
+46| [460A - Vasya and Socks](https://codeforces.com/problemset/problem/460/A) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/34/460A_Vasya%20and%20Socks.cpp) |  `brute force` `math` `implementation`  `*900`  | June/07/2021  | 
+47| [1520B - Ordianry Numbers](https://codeforces.com/problemset/problem/1520/B) |[GNU C++17](https://github.com/Harshit1123/Codeforces/blob/main/Solutions/35/1520B_Ordinary%20Numbers.cpp) |  `brute force` `math` `number theory`  `*800`  | June/09/2021  | 
 
 
 
